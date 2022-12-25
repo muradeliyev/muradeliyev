@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate android developer.
+Android developer.
 
 
 ## 🌐 Socials:
