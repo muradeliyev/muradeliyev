@@ -1,2 +1,1 @@
-# 💫 About Me:
-Android developer.
+
